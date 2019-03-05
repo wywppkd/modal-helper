@@ -1,0 +1,25 @@
+{
+  "name": "modal-helper",
+  "version": "1.0.14",
+  "description": "处理移动端滚动穿透问题",
+  "main": "modal-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wywppkd/modal-helper.git"
+  },
+  "keywords": [
+    "移动端",
+    "滚动穿透",
+    "滑动穿透",
+    "划动穿透"
+  ],
+  "author": "wywppkd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wywppkd/modal-helper/issues"
+  },
+  "homepage": "https://github.com/wywppkd/modal-helper#readme"
+}

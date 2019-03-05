@@ -1,0 +1,5 @@
+/*解决移动滚动穿透问题*/
+body.modal-open {
+    position: fixed;
+    width: 100%;
+}
